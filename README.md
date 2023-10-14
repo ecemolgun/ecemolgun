@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DS and ML in Miuul DS & ML Bootcamp<br><br>🔭 I’m currently working as a CRM intern at Setur<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me: ecemmolgun@gmail.com
+🔭 I’m currently working as a CRM Analytics Specialist at Setur<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me: ecemmolgun@gmail.com
 
 
 ## 🌐 Socials:
