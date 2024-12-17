@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a CRM Analytics Specialist at Setur<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me: ecemmolgun@gmail.com
+🔭 I’m currently working as a CRM Campaign Specialist at Eren Retail<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me: ecemmolgun@gmail.com
 
 
 ## 🌐 Socials:
